@@ -168,7 +168,7 @@ n       LRU Cache Time (s)     Splay Tree Time (s)
 
 ### Приклад графіка
 
-![Results](./assets/print_screen_0.png)
+![Results](./assets/image.png)
 
 ## Підготовка та завантаження домашнього завдання
 
